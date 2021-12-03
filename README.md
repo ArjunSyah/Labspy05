@@ -236,7 +236,9 @@ elif x.lower() == "k":
 ![gambar14](ss/s13.PNG)
 - Menghapus data dengan syntax "h" dan melihat data dengan syntax "l"
 ![gambar15](ss/s14.PNG)
+
 - Keluar dari program dengan syntax "k"
+
 ![gambar16](ss/s15.PNG)
 
 # Sekian dan Trimakasih
